@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java ERP**
 
-- 🌱 I’m currently learning **Java springboot and .NET**
+- 🌱 I’m currently learning **Backend languages**
 
 - 📫 How to reach me **cv.aitordoncel@gmail.com**
 
